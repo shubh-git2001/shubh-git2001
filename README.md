@@ -28,3 +28,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-git2001&show_icons=true&locale=en" alt="shubh-git2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-git2001&" alt="shubh-git2001" /></p>
+<!-- <img align="center" alt="banner" width="1000" src = "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+ -->
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
