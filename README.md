@@ -1,9 +1,10 @@
-![MasterHead](https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
-<h3 align="center">Looking for Software Developement//C++//Mern Stack Roles</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFhdm00MGRseDM4a3FwN3hjaDk5MDF6OGk1dmJ5dzR2dm54dmh4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
+<h3 align="center">Looking for Software Developement//C++//Mern Stack Roles</h3> 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-git2001&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-git2001" /> </p>
+# 💫 About Me:
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -40,10 +41,11 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+  
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+ 
 </picture>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
